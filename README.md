@@ -9,3 +9,5 @@ GroupDynamicAndCommunications
  - Сіренко Володимир
 
 Тема проекту: Диспетчер таксі
+
+test XD
